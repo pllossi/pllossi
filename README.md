@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫I'm currently studing at Iti Blaise Pascal<br>OIS Runner<br>OII Runner<br>OliCyber Runner<br>
+🏫I'm currently studing at Iti Blaise Pascal<br>OIS Runner<br>OliCyber Runner<br>
 
 
 ## 🌐 Socials:
