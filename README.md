@@ -37,6 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pllossi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllossi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -73,4 +74,3 @@
 ## 🐍 Snake Contributions
 
 ![snake gif](https://github.com/pllossi/pllossi/blob/output/github-snake-dark.svg)
-
