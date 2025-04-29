@@ -37,8 +37,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pllossi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllossi&layout=compact&theme=radical" alt="Top Languages" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=pllossi)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
