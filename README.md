@@ -66,10 +66,7 @@
 ---
 
 ## 📈 GitHub Streak
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Streak-Active%20🔥-red?style=for-the-badge&logo=github" alt="GitHub Streak" />
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pllossi&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
