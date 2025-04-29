@@ -65,9 +65,7 @@
 
 
 ## 📈 Contribution
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pllossi&theme=radical" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pllossi)](https://git.io/streak-stats)
 
 ---
 
