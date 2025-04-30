@@ -66,8 +66,9 @@
 ---
 
 ## 📈 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pllossi&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+<p allign="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pllossi&theme=dark" alt="GitHub Streak" /></a>
+</p>
 ---
 
 ## 🐍 Snake Contributions
