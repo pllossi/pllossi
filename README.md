@@ -67,7 +67,9 @@
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pllossi&theme=dark)]
+<p allign="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pllossi&theme=dark" alt="GitHub Streak" /></a>
+</p>
 
 ---
 
