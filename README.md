@@ -67,10 +67,12 @@
 
 ## 📈 GitHub Streak
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pllossi&label=Profile%20views&color=0e75b6&style=flat" alt="pllossi" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pllossi&" alt="pllossi" /></p>
 
 ---
 
 ## 🐍 Snake Contributions
 
 ![snake gif](https://github.com/pllossi/pllossi/blob/output/github-snake-dark.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pllossi&label=Profile%20views&color=0e75b6&style=flat" alt="pllossi" /> </p>
