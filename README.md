@@ -67,9 +67,7 @@
 
 ## 📈 GitHub Streak
 
-<p allign="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pllossi&theme=dark" alt="GitHub Streak" /></a>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pllossi&label=Profile%20views&color=0e75b6&style=flat" alt="pllossi" /> </p>
 
 ---
 
