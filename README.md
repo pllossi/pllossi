@@ -67,7 +67,7 @@
 
 ## 📈 GitHub Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pllossi&" alt="pllossi" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pllossi&theme=dark&mode=weekly" alt="GitHub Streak" /></a>></p>
 
 ---
 
