@@ -47,7 +47,7 @@
 ---
 
 ## 🌱 What I'm Working On
-- 📚 Studying at **PASCALE COMMANDINI**
+- 📚 Studying at **PASCAL COMMANDINI**
 - ✈️ Building a **Fantacalcio**
 - 🖥️ Learning **C++** and **Python**
 - 🛠️ Exploring the world of **Cybersecurity**
@@ -57,7 +57,7 @@
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pllossi&theme=dark&locale=it)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pllossi&theme=dark&locale=it" alt="GitHub Streak" /></a>
 
 ---
 
