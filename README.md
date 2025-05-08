@@ -58,6 +58,7 @@
 ## 📈 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pllossi)](https://git.io/streak-stats)
+
 ---
 
 ## 🐍 Snake Contributions
