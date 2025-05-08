@@ -57,7 +57,7 @@
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pllossi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pllossi&theme=dark&locale=it)](https://git.io/streak-stats)
 
 ---
 
