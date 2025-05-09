@@ -57,7 +57,7 @@
 
 ## 📈 GitHub Streak
 
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pllossi&theme=dark&locale=it" alt="GitHub Streak" /></a></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pllossi&theme=dark" alt="GitHub Streak" /></a></p>
 
 ---
 
