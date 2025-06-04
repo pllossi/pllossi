@@ -22,7 +22,8 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pllossi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>  </a>
+   <img src="https://github-profile-trophy.vercel.app/?username=pllossi&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
