@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boschi Filippo</h1>
-<h3 align="center">A passionate programmer from Italy</h3>
+<h3 align="center">A passionate student from Italy</h3>
 
 ---
 ## 🚀 My Programming Languages 
