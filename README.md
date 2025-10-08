@@ -30,7 +30,7 @@
 
 ## 🌱 What I'm Working On
 - 📚 Studying at **PASCAL COMMANDINI**
-- ✈️ Working on a **AI**
+- ✈️ Working on a **FANTAPASCAL**
 - 🖥️ Learning **C++** and **Python**
 - 🛠️ Exploring the world of **Cybersecurity**
 - 🔎 Debugging like a pro with **"MyDebugger"**
