@@ -39,7 +39,7 @@
 
 ## 📈 GitHub Streak
 
-![](https://nirzak-streak-stats.vercel.app/?user=pllossi&theme=dark&hide_border=false)<br/>
+![https://nirzak-streak-stats.vercel.app/?user=pllossi&theme=dark&](https://trophygithubreadmelang.cybee.dpdns.org/?username=pllossi&theme=Darkhide_border=false)<br/>
 
 
 ---
